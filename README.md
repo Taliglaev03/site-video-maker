@@ -2,7 +2,7 @@
 
 Landing page moderna, responsiva e elegante para profissionais de **audiovisual**. Perfeita para quem deseja apresentar seus serviços, portfólio e atrair novos clientes de forma visual, objetiva e impactante.
 
-![preview do site](https://taliglaev03.github.io/site-video-maker)
+![preview do site](https://taliglaev03.github.io/site-video-maker/)
 
 ---
 
